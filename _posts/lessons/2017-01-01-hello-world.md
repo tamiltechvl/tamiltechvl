@@ -1,7 +1,11 @@
 ---
 layout: post
 category : lessons
+ HEAD
 tagline: "By Vijaylakshman"
+
+tagline: "by Vijaylakshman"
+fd96d63e9b6f17725eb86db97ca36e008f1be94b
 tags : [intro, beginner, jekyll, tutorial]
 img : helloworld.jpg
 img-mobile : 

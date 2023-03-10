@@ -1,7 +1,7 @@
 ---
 layout: post
 category : docs
-tagline: "Example helium post in markdown and html classes"
+tagline: "VijayLakshman"
 tags : [jekyll, code, markdown]
 img : markdown-samples.jpg
 img2 : 
