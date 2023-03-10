@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Hello world post on helium jekyll"
+tagline: "By Vijaylakshman"
 tags : [intro, beginner, jekyll, tutorial]
 img : helloworld.jpg
 img-mobile : 
